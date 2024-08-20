@@ -106,7 +106,3 @@ The project successfully implements a real-time data processing pipeline, enhanc
 - [Data Engineering GitHub Topics](https://github.com/topics/data-engineering)
 - [Data Engineering Project Template](https://github.com/data-engineering-community/data-engineering-project-template)
 - [Data Engineering/Data Pipeline Repo Project Template](https://www.confessionsofadataguy.com/data-engineering-data-pipeline-repo-project-template-free/)
-
----
-
-Feel free to customize this template with specific details and links related to your project.
