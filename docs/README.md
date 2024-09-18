@@ -1,8 +1,4 @@
-Here's a detailed template for your project documentation. This format will help you structure your GitHub `README.md` effectively:
-
----
-
-# Data Engineering Project: Football Players data Pipelines
+## Data Engineering Project: Football Players data Pipelines
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -16,7 +12,6 @@ Here's a detailed template for your project documentation. This format will help
 9. [Results](#results)
 10. [Conclusion](#conclusion)
 11. [Future Work](#future-work)
-12. [References](#references)
 
 ## Introduction
 This project aims to build a data ETLs pipelines to scrape, transform, and load data into BigQuery. The primary objective is to data ingestion and processing for analytics purposes.
@@ -100,9 +95,3 @@ The project successfully implements a real-time data processing pipeline, enhanc
 ## Future Work
 - **Enhancements:** [Suggested improvements, e.g., adding more data sources]
 - **Scalability:** [Plans for scaling the pipeline]
-
-## References
-- [Project Documentation Template](https://github.com/tylerwmarrs/data-engineering-project-doc-templates)
-- [Data Engineering GitHub Topics](https://github.com/topics/data-engineering)
-- [Data Engineering Project Template](https://github.com/data-engineering-community/data-engineering-project-template)
-- [Data Engineering/Data Pipeline Repo Project Template](https://www.confessionsofadataguy.com/data-engineering-data-pipeline-repo-project-template-free/)
